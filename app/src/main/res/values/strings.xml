@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RetroFitPractice</string>
+    <string name="german_fact">German Fact</string>
+    <string name="english_fact">English Fact</string>
 </resources>
